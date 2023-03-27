@@ -1,10 +1,11 @@
 import './App.css'
-import './components/IconLogo/index'
-import IconLogo from './components/IconLogo/index'
+import IconLogo from './components/IconLogo'
 
 const App = () => {
-  (
+  return (
+    <>
     <IconLogo />
+    </>
   )
 }
 
