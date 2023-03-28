@@ -4,6 +4,7 @@ const App = () => {
   return (
     <>
     <IconLogo />
+    <p>Teste teste teste</p>
     </>
   )
 }

@@ -1,9 +1,9 @@
 import { createGlobalStyle } from "styled-components";
 
 const Base = createGlobalStyle`
-  body{ 
+  body { 
     background-color: var(--color-green);
-    font-family: 'mago3',  sans-serif;
+    font-family: 'mago3', sans-serif;
   }
 `
 export default Base;
