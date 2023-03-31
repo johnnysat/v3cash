@@ -5,7 +5,6 @@ const Name = styled.figcaption`
               -0.1rem 0.1rem 0 var(--color-purple),
               0.1rem -0.1rem 0 var(--color-purple),
               -0.1rem -0.1rem 0 var(--color-purple);
-    
   letter-spacing: 0.2rem;
   `
 
