@@ -7,6 +7,11 @@ const Button = styled.button`
   font-size: 2rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
+  color: var(--color-purple);
+  text-shadow: 0.1rem 0.1rem 0 var(--color-purple),
+              -0.1rem 0.1rem 0 var(--color-purple),
+              0.1rem -0.1rem 0 var(--color-purple),
+              -0.1rem -0.1rem 0 var(--color-purple);
 `
 
 export default Button
