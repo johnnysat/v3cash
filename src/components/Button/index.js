@@ -8,10 +8,10 @@ const Button = styled.button`
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--color-purple);
-  text-shadow: 0.1rem 0.1rem 0 var(--color-purple),
-              -0.1rem 0.1rem 0 var(--color-purple),
-              0.1rem -0.1rem 0 var(--color-purple),
-              -0.1rem -0.1rem 0 var(--color-purple);
+  text-shadow: 0.1rem 0.1rem 0 var(--color-sand-dark),
+              -0.1rem 0.1rem 0 var(--color-sand-dark),
+              0.1rem -0.1rem 0 var(--color-sand-dark),
+              -0.1rem -0.1rem 0 var(--color-sand-dark);
 `
 
 export default Button
