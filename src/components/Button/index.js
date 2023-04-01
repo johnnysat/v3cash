@@ -14,7 +14,7 @@ const Button = styled.button`
               0.1rem -0.1rem 0 var(--color-sand-dark),
               -0.1rem -0.1rem 0 var(--color-sand-dark);
   padding: 1rem 0.8rem;
-  border-image: url(${border}) 30 fill / 30px / 30px space;
+  border-image: url(${border}) 8 fill / 8px / 8px;
 `
 
 export default Button
