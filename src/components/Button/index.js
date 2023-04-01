@@ -1,4 +1,5 @@
 import styled from 'styled-components'
+import border from '../../assets/button-border.png'
 
 const Button = styled.button`
   background-color: var(--color-sand);
@@ -13,6 +14,7 @@ const Button = styled.button`
               0.1rem -0.1rem 0 var(--color-sand-dark),
               -0.1rem -0.1rem 0 var(--color-sand-dark);
   padding: 1rem 0.8rem;
+  border-image: url(${border}) 30 fill / 30px / 30px space;
 `
 
 export default Button
