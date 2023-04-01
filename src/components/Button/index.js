@@ -12,6 +12,7 @@ const Button = styled.button`
               -0.1rem 0.1rem 0 var(--color-sand-dark),
               0.1rem -0.1rem 0 var(--color-sand-dark),
               -0.1rem -0.1rem 0 var(--color-sand-dark);
+  padding: 1rem 0.8rem;
 `
 
 export default Button
