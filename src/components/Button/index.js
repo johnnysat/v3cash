@@ -13,7 +13,7 @@ const Button = styled.button`
               -0.1rem 0.1rem 0 var(--color-sand-dark),
               0.1rem -0.1rem 0 var(--color-sand-dark),
               -0.1rem -0.1rem 0 var(--color-sand-dark);
-  padding: 1rem 0.8rem;
+  padding-bottom: 0.6rem;
   border-image: url(${border}) 8 fill / 8px / 8px;
   image-rendering: pixelated;
 `
